@@ -66,11 +66,6 @@ The notebook follows a CRISP-DM-style workflow:
 ```
 .
 ├── sweet_aroma.ipynb              # Full analysis pipeline
-├── data/
-│   ├── order_july25.csv           # Training data (10,000 orders)
-│   ├── new_customer25.csv         # 20 new orders to score
-│   ├── preprocessed_sweet_aroma_data.csv   # Generated
-│   └── new_customer_predictions.csv        # Generated
 └── README.md
 ```
 
